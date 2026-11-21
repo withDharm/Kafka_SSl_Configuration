@@ -1,17 +1,7 @@
 # Kafka SSL Configuration in Docker
-# Project Overview
-# Project Objectives
-- Understand Kafka SSL configuration.
-- Learn Producer and Consumer communication.
-- Configure Kafka using Docker.
-- Understand Docker Compose.
-- Learn how to manage project files using Git and GitHub.
-# Project Structure
 # Docker Congiguration
 -Docker image :Confluent Kafka
-
-# kafka-ssl-configuration/
-│ 
+# kafka-ssl-configuration
 ├── producer/
 ├── consumer/
 ├── docker-compose.yml
