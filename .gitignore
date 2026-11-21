@@ -1,0 +1,8 @@
+cert/
+*.key
+*.pem
+*.p12
+*.jks
+.env
+*password*
+*secret*
